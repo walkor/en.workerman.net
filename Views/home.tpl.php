@@ -1,15 +1,11 @@
 <div class="row clearfix">
 	<div class="col-md-7 column">
-		<h2>
-			什么是Workerman
-		</h2>
 		<p class="f14">
-			Workerman是一款<strong class="c4">纯PHP开发</strong>的<strong class="c4">开源</strong>的<strong class="c2">高性能</strong>的<strong class="c3">PHP socket 异步框架</strong>。被广泛的用于移动通讯、手游服务端、网络游戏服务器、聊天室服务器、硬件通讯服务器、智能家居、车联网、物联网等领域的开发。
-			支持Websocket、HTTP等协议，支持自定义协议。基于workerman开发者可以更专注于业务逻辑开发，不必再为PHP Socket底层开发而烦恼。<a class="btn" target="_blank" href="/workerman">查看更多 »</a>
+			An asynchronous event driven PHP framework for easily building fast, scalable network applications. Supports HTTP, Websocket and other custom protocols. Supports libevent, HHVM.
 		</p>
 		<table><tbody><tr><td><iframe src="http://ghbtns.com/github-btn.html?user=walkor&amp;repo=workerman&amp;type=watch&amp;count=true&amp;size=large" height="30" width="170" frameborder="0" scrolling="0" style="width:150px; height: 30px;" allowtransparency="true"></iframe></td><td><iframe src="http://ghbtns.com/github-btn.html?user=walkor&amp;repo=workerman&amp;type=fork&amp;count=true&amp;size=large" height="30" width="170" frameborder="0" scrolling="0" style="width:150px; height: 30px;" allowtransparency="true"></iframe></td></tr></tbody></table>
 		<a class="btn btn-default btn-large" href="https://github.com/walkor/workerman" target="_blank"><b>Fork on Github</b></a>&nbsp;
-		<a class="btn btn-default btn-large" href="/download/workermanzip"><b>下载ZIP压缩文件</b></a> <font class='f11 gray'>下载<?php echo $workerman_download_count;?>次</font>
+		<a class="btn btn-default btn-large" href="/download/workermanzip"><b>Download Zip</b></a> <font class='f11 gray'>count<?php echo $workerman_download_count;?></font>
 	</div>
 	<div class="col-md-5 column">
 		<div class="thumbnail">
